@@ -17,12 +17,26 @@ on sales trends, profit, customer segments, and regional performance.
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Pivot Tables, Charts)
+- Python 3.14.6
+- Pandas (Data Cleaning and Analysis)
+- Matplotlob (For Visualizations)
+- Jupyter Notebook
+
+## 🧹 Data Cleaning Performed
+- Checked for and handled missing/null values
+- Converted Date column into proper datetime format
+- Verified daa type across numerical and categorical column
 
 ## 📁 Files
 | File | Description |
 |------|-------------|
 | `superstore_sales.csv` | Raw dataset |
 | `analysis.xlsx` | Excel analysis with charts |
+
+## ▶️ How to run
+- Clone this repository
+- Open 'superstore_analysis.ipnb'in Jupyter Notebook
+- Run all cells to reproduce the analysis and visualizations
 
 ## 👤 Author
 **Karan** | Aspiring Data Analyst
